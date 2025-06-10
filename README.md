@@ -16,6 +16,7 @@ A Spring Boot application with PostgreSQL backend to perform CRUD operations on 
 ### Prerequisites
 
 - Java 17 or later
+- Spring Boot 3
 - Maven 3.6+
 - PostgreSQL installed and running
 - Postman (optional, for API testing)
